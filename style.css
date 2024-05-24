@@ -75,3 +75,16 @@ nav{
 img{
     width: 100%;
 }
+
+/*section tre*/
+.rounded-img{
+  
+}
+
+.rounded-img > div{
+    padding: 0;
+}
+
+.border-rounded{
+    border-radius: 30px;
+}
