@@ -6,7 +6,7 @@
 
 /***************************************************************************/
 /*DEBUG*/
-/***************************************************************************/
+/***************************************************************************
 
 .row{
     background-color: orange;
@@ -20,12 +20,12 @@
     border: solid 0.1rem white;
 }
 .container-fluid {
-    /*DEBUG*/
+  
     min-height: 100px;
 }
 
 .container-md{
-    /*DEBUG*/
+
     min-height: 100px;
 }
 
@@ -78,14 +78,22 @@ nav{
    justify-content: center;
     height: 100vh;
 }
-
+.stella{
+    align-items: center;
+}
 img{
     width: 100%;
 }
-
+.barra{
+    border: solid 0.1rem white;
+    width: 4rem;
+}
+.fa-star{
+    font-size: 20px;
+}
 /*section tre*/
 .rounded-img{
-  
+  width: auto;
 }
 
 .rounded-img > div{
