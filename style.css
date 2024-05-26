@@ -2,7 +2,6 @@
     font-family: “Helvetica”;
      /*DEBUG*/
      color: white;
-     font-size: 30px;
 }
 
 /***************************************************************************/
@@ -49,12 +48,20 @@
 nav{
     height: 70px;
 }
+#logo{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+}
 
 #menu-right{
     display: flex;
     justify-content: flex-end;
     align-items: center;
     color: white;
+    font-size: 25px;
 }
 
 /*SETTING JAMBO- FIRST SECTION*/
@@ -88,3 +95,4 @@ img{
 .border-rounded{
     border-radius: 30px;
 }
+
