@@ -76,7 +76,7 @@ nav div{
     flex-direction: column;
     align-items: center;
     padding: 70px;
-    height: calc(100vh - 70px);
+    height: 100% ;
 }
 
 #jambo{
@@ -102,6 +102,21 @@ img{
 .title{
     text-align: center;
 }
+
+/*second section */
+.black-item {
+    color: black;
+}
+.barra.black-item{
+    border: solid 0.1rem black;
+
+}
+
+#portfolio > .flex-item {
+    color: black;
+
+}
+
 /*section tre*/
 .rounded-img{
   width: auto;
