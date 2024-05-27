@@ -119,11 +119,10 @@ img{
 
 /*section tre*/
 .rounded-img{
-  width: auto;
+    margin: 20px auto;
 }
-
 .rounded-img > div{
-    padding: 0;
+    margin: 12px auto;
 }
 
 .border-rounded{
