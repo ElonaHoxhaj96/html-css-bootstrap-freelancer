@@ -88,6 +88,9 @@ nav div{
 }
 .stella{
     align-items: center;
+
+    justify-content: center;
+    margin: auto;
 }
 img{
     width: 100%;
@@ -98,9 +101,14 @@ img{
 }
 .fa-star{
     font-size: 20px;
+    margin: auto;
+    align-items: center;
 }
 .title{
     text-align: center;
+}
+.text > span{
+    width: 100%;
 }
 
 /*second section */
@@ -114,10 +122,7 @@ img{
 
 #portfolio > .flex-item {
     color: black;
-
 }
-
-/*section tre*/
 .rounded-img{
     margin: 20px auto;
 }
@@ -128,4 +133,7 @@ img{
 .border-rounded{
     border-radius: 30px;
 }
+
+
+/*section tre*/
 
